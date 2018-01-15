@@ -6,12 +6,14 @@ process:
 	twig: true
 ---
 
+<del>Strike through this text.</del>
+<div dir="rtl">
 Lorem markdownum murmure fidissime suumque. Nivea agris, duarum longaeque Ide
 rugis Bacchum patria tuus dea, sum Thyneius liquor, undique. **Nimium** nostri
 vidisset fluctibus **mansit** limite rigebant; enim satis exaudi attulit tot
 lanificae [indice](http://www.mozilla.org/) Tridentifer laesum. Movebo et fugit,
 limenque per ferre graves causa neque credi epulasque isque celebravit pisces.
-
+</div>
 - Iasone filum nam rogat
 - Effugere modo esse
 - Comminus ecce nec manibus verba Persephonen taxo
