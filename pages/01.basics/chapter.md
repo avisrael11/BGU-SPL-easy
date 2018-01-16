@@ -5,8 +5,8 @@ taxonomy:
 child_type: docs
 ---
 
-### 1. מבוא
+### חלק 1
 
-# Basics
+# סביבת ריצה
 
 Discover the **basic** principles
